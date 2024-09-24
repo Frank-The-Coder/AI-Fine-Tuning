@@ -1,3 +1,4 @@
 *.jsonl
 *.txt
 .vscode/
+__pycache__/
