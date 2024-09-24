@@ -1,5 +1,5 @@
 *.jsonl
-*.txt
+info.txt
 .vscode/
 __pycache__/
 *.py[cod]
