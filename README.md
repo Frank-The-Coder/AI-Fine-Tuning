@@ -1,6 +1,3 @@
-Here’s a **README.md** template for your project. It includes instructions on how to set up the environment, run the Flask app, and interact with the chatbot.
-
-````markdown
 # Chatbot Application with OpenAI API
 
 This is a simple web-based chatbot application built using Flask and the OpenAI API. The chatbot allows users to ask questions, and it returns responses powered by OpenAI's `gpt-3.5-turbo` (or `gpt-4`) model. This project uses fine-tuned models to provide more tailored responses based on your custom data.
@@ -29,7 +26,6 @@ This is a simple web-based chatbot application built using Flask and the OpenAI 
 git clone https://github.com/Frank-The-Coder/AI-Fine-Tuning.git
 cd AI-Fine-Tuning
 ```
-````
 
 ### 2. Set up a virtual environment:
 
